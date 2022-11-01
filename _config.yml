@@ -22,8 +22,8 @@ favicon: https://github.com/Interludetraveler/Interludetraveler.github.io/raw/ma
 navigation:
   - name: 首页
     url: /
-  - name: 关于
-    url: /about
+  # - name: 关于
+  #  url: /about
   - name: 归档
     url: /archive
   - name: 标签
@@ -55,7 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+footer-text: 取仁成义今日事 人间遍种自由花
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
